@@ -13,7 +13,7 @@ import java.nio.charset.StandardCharsets;
 
 public class WeatherService {
 
-    private String API_KEY = "d45cd51af8e54c8eb722f1c22e0d007a"; // 替换为您的 API Key
+    private String API_KEY = "API_KEY"; 
 
     public String getApiKey() {
         return API_KEY;

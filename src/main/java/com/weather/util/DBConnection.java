@@ -8,7 +8,7 @@ public class DBConnection {
 
     private static final String URL = "jdbc:mysql://localhost:3306/weather_db?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=Asia/Shanghai";
     private static final String USER = "root";
-    private static final String PASSWORD = "Aa123123";
+    private static final String PASSWORD = "数据库密码";
 
     /**
      * 获取数据库连接
